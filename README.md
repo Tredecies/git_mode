@@ -21,21 +21,6 @@ A comparison of regular Git and git_mode:
 | `git push origin master"`     | push origin master |
 
 
-| Key              | Description  |
-|------------------|--------------|
-| `a or add `      | git add      |
-| `s or status`    | git status   |
-| `c or commit`    | git commit   |
-| `push`           | git push     |
-| `d or diff`      | git diff     |
-| `grep or search` | git search   |
-| `m or merge`     | git merge    |
-| `b`              | git branch   |
-| `remote`         | git remote   |
-| `pull`           | git pull     |
-| `i or init`      | git init     |
-| `clone`          | git clone    |
-| `ch or checkout` | git checkout |
 
 
 
