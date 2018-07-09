@@ -48,3 +48,6 @@ alias clone='git clone'
 # checkout
 alias ch='git checkout'
 alias checkout='git checkout'
+
+# stash
+alias stash='git stash'

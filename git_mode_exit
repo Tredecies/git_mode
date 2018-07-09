@@ -48,3 +48,6 @@ unalias clone
 # checkout
 unalias ch
 unalias checkout
+
+# stash
+unalias stash
