@@ -1,7 +1,7 @@
 # Git Mode
 A Simpler and Faster way to use Git
 
-[[file:pic]]
+![Git](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mycleveragency.com%2Fblog%2Fwp-content%2Fuploads%2F2014%2F07%2FGIT-FB-21.07.14.png&f=1)
 
 # Description
 A simple Git terminal mode to use Git faster with your existing terminal of choice.
