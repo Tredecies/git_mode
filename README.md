@@ -8,8 +8,9 @@ A simple Git terminal mode to use Git faster with your existing terminal of choi
 
 A comparison of regular Git and git_mode:
 
-*Regular*
+
 | Regular Git                   | git_mode           |
+|-------------------------------+--------------------|
 |                               | g                  |
 | `git status`                  | s                  |
 | `git diff stuff stuff2`       | d stuff stuff2     |
