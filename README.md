@@ -7,7 +7,7 @@ A Simpler and Faster way to use Git
 A simple Git terminal mode to use Git faster with your existing terminal of choice.
 
 # Features:
-* A mode to provide Git shorcuts.
+* A mode to provide Git shortcuts.
 * That's it, it's simple.
 
 # Install
@@ -21,15 +21,15 @@ To enter git_mode, open a terminal and press `g` `<Enter>`.
 | Key              | Description  |
 |------------------|--------------|
 | `a or add `      | git add      |
+| `c or commit`    | git commit   |
+| `push`           | git push     |
 | `d or diff`      | git diff     |
 | `grep or search` | git search   |
 | `m or merge`     | git merge    |
 | `b`              | git branch   |
 | `s or status`    | git status   |
-| `c or commit`    | git commit   |
 | `remote`         | git remote   |
 | `pull`           | git pull     |
-| `push`           | git push     |
 | `i or init`      | git init     |
 | `clone`          | git clone    |
 | `ch or checkout` | git checkout |
