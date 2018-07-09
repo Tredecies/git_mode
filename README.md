@@ -22,13 +22,13 @@ To exit git_mode, close the terminal or enter `ge`.
 | Key              | Description  |
 |------------------|--------------|
 | `a or add `      | git add      |
+| `s or status`    | git status   |
 | `c or commit`    | git commit   |
 | `push`           | git push     |
 | `d or diff`      | git diff     |
 | `grep or search` | git search   |
 | `m or merge`     | git merge    |
 | `b`              | git branch   |
-| `s or status`    | git status   |
 | `remote`         | git remote   |
 | `pull`           | git pull     |
 | `i or init`      | git init     |
