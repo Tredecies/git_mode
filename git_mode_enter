@@ -1,0 +1,50 @@
+#!/usr/bin/env bash
+
+echo "## GIT MODE ##"
+
+# Add
+alias a='git add'
+alias add='git add'
+
+# Diff
+alias d='git diff'
+alias diff='git diff'
+
+# Grep/Search
+alias search='git grep'
+alias grep='git grep'
+
+# Merge
+alias merge='git merge'
+alias m='git merge'
+
+# Branch
+alias b='git branch'
+
+# Status
+alias s='git status'
+alias status='git status'
+
+# Commit
+alias c='git commit'
+alias commit='git commit'
+
+# Remote
+alias remote='git remote'
+
+# Pull
+alias pull='git pull'
+
+# Push
+alias push='git push'
+
+# init
+alias init='git init'
+alias i='git init'
+
+# clone
+alias clone='git clone'
+
+# checkout
+alias ch='git checkout'
+alias checkout='git checkout'

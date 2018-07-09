@@ -1,0 +1,50 @@
+#!/usr/bin/env bash
+
+echo "## GIT MODE EXIT ##"
+
+# Add
+unalias a
+unalias add
+
+# Diff
+unalias d
+unalias diff
+
+# Grep/Search
+unalias search
+unalias grep
+
+# Merge
+unalias merge
+unalias m
+
+# Branch
+unalias b
+
+# Status
+unalias s
+unalias status
+
+# Commit
+unalias c
+unalias commit
+
+# Remote
+unalias remote
+
+# Pull
+unalias pull
+
+# Push
+unalias push
+
+# init
+unalias init
+unalias i
+
+# clone
+unalias clone
+
+# checkout
+unalias ch
+unalias checkout

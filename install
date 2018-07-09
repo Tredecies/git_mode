@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+location=~/.bashrc
+
+echo "Adding Git-Enter-Mode to .bashrc"
+
+echo 'alias g="source ~/git_mode/git_mode_enter"' >> $location
+
+echo "Adding Git-Exit-Mode to .bashrc"
+
+echo 'alias ge="source ~/git_mode/git_mode_exit"' >> $location
+
+echo "Done"
