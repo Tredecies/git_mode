@@ -3,7 +3,7 @@ A Simpler and Faster way to use Git
 
 #+TITLE: Git contribution layer for Spacemacs
 
-[[pic]]
+[[file:pic]]
 
 * Table of Contents                                         :TOC_4_gh:noexport:
  - [[#description][Description]]
