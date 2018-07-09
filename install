@@ -1,12 +1,20 @@
 #!/usr/bin/env bash
+echo bash/zshrc? [b/z] 
 
-location=~/.bashrc
+read answer
 
-echo "Adding Git-Enter-Mode to .bashrc"
+if [ $answer == "b" ]; then 
+    location=~/.bashrc
+fi
+if [ $answer == "z" ]; then 
+    location=~/.zshrc
+fi 
+
+echo "Adding Git-Enter-Mode to $location"
 
 echo 'alias g="source ~/git_mode/git_mode_enter"' >> $location
 
-echo "Adding Git-Exit-Mode to .bashrc"
+echo "Adding Git-Exit-Mode to $location"
 
 echo 'alias ge="source ~/git_mode/git_mode_exit"' >> $location
 
