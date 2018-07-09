@@ -16,8 +16,9 @@ A simple Git terminal mode to use Git faster with your existing terminal of choi
  1. Execute the install script. `~/git_mode/install`
 
 # Working with git_mode
-To enter git_mode, open a terminal and press `g` `<Enter>`.
-To exit git_mode, close the terminal or enter `ge`. 
+To use shortcuts you enter git_mode first.
+* To enter git_mode, open a terminal and press `g` `<Enter>`.
+* To exit git_mode, close the terminal or enter `ge`. 
 
 | Key              | Description  |
 |------------------|--------------|
