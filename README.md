@@ -6,6 +6,29 @@ A Simpler and Faster way to use Git
 # Description
 A simple Git terminal mode to use Git faster with your existing terminal of choice.
 
+A comparison of regular Git and git_mode:
+
+*Regular*
+`git status`
+`git diff stuff stuff2`
+`git add stuff`
+`git checkout stuff2`
+`git add stuff`
+`git commit -m "added stuff"`
+`git push origin master"`
+
+*git_mode*
+`g` (to enter git_mode)
+`s`
+`d stuff stuff2`
+`a stuff`
+`ch stuff2`
+`a stuff`
+`c -m "added stuff"`
+`push origin master"`
+
+
+
 # Features:
 * A mode to provide Git shortcuts.
 * That's it, it's simple.
