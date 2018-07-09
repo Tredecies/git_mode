@@ -10,8 +10,8 @@ A comparison of regular Git and git_mode:
 
 
 | Regular Git                   | git_mode           |
-|-------------------------------|--------------------|
-| __                            | g                  |
+|-------------------------------+--------------------|
+| __                            | `g`                |
 | `git status`                  | s                  |
 | `git diff stuff stuff2`       | d stuff stuff2     |
 | `git add stuff`               | a stuff            |
