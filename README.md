@@ -9,16 +9,16 @@ A simple Git terminal mode to use Git faster with your existing terminal of choi
 A comparison of regular Git and git_mode:
 
 
-| Regular Git                   | git_mode           |
-|-------------------------------|--------------------|
-| __                            | `g`                |
-| `git status`                  | s                  |
-| `git diff stuff stuff2`       | d stuff stuff2     |
-| `git add stuff`               | a stuff            |
-| `git checkout stuff2`         | ch stuff2          |
-| `git status`                  | s                  |
-| `git commit -m "added stuff"` | c -m "added stuff" |
-| `git push origin master"`     | push origin master |
+| Regular Git                   | git_mode             |
+|-------------------------------|----------------------|
+| __                            | `g`                  |
+| `git status`                  | `s`                  |
+| `git diff stuff stuff2`       | `d stuff stuff2`     |
+| `git add stuff`               | `a stuff`            |
+| `git checkout stuff2`         | `ch stuff2`          |
+| `git status`                  | `s`                  |
+| `git commit -m "added stuff"` | `c -m "added stuff"` |
+| `git push origin master"`     | `push origin master` |
 
 
 
