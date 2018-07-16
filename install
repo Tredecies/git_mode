@@ -17,5 +17,6 @@ echo 'alias g="source ~/git_mode/git_mode_enter"' >> $location
 echo "Adding Git-Exit-Mode to $location"
 
 echo 'alias ge="source ~/git_mode/git_mode_exit"' >> $location
+echo 'alias q="source ~/git_mode/git_mode_exit"' >> $location
 
 echo "Done"
